@@ -1,7 +1,5 @@
-# vehicle_speed_estimation
-Vehicle speed estimation using the mono camera(CCTV)
-
-Get the vehicle speed estimation using Lucas-Kanade tracker.
+# Velocity Estimator
+Get speed estimation with Lucas-Kanade tracker.
 
 # How to use this code
 1. If you have an input video,
